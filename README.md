@@ -1,6 +1,23 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Building a Simple Operating System using Java, focusing on core OS concepts like process management, memory handling, file systems, and system-level abstractions, while exploring the required fundamentals for OS development such as CPU scheduling, interrupts, and system calls.<br><br>👯 I’m looking to collaborate on<br>Java-based system projects, backend or full-stack applications, cloud & data engineering projects, and beginner-friendly OS or low-level system simulations.<br><br>🤝 I’m looking for help with<br>Operating System internals, low-level system design, kernel concepts, memory management, and best practices for simulating OS components using Java.<br><br>🌱 I’m currently learning<br>Operating Systems fundamentals, Java system-level programming, Spring Boot & React for full-stack development, AWS cloud services, data engineering workflows, and AI-assisted development tools.<br><br>💬 Ask me about<br>Java, OOP concepts, Spring Boot, REST APIs, Full-Stack Development, SQL, AWS basics, Data Analysis (RFM), Power BI dashboards, Git/GitHub, and Agile development.<br><br>⚡ Fun fact<br>I enjoy breaking down complex systems (like OS and cloud pipelines) into simple, understandable components—and I love using AI tools to speed up learning and development 🚀
 
+## 💫 About Me:
+
+🔭 I’m currently working on
+Building a Java-based Simple Operating System simulation to strengthen my understanding of low-level system concepts such as process scheduling, memory management, file systems, and system calls, while applying strong Java OOP and system design principles.
+
+👯 I’m looking to collaborate on
+Java Full-Stack applications, Spring Boot & React projects, DevOps pipelines, cloud-native applications, and multi-cloud (AWS-focused) system and backend projects.
+
+🤝 I’m looking for help with
+Advanced Operating System internals, JVM-level performance tuning, containerization best practices, CI/CD optimization, and real-world DevOps & multi-cloud architectures.
+
+🌱 I’m currently learning
+Java Full-Stack Development (Spring Boot, REST APIs, React), DevOps tools (Linux, Git, CI/CD), Cloud & Multi-Cloud fundamentals (AWS services, ETL pipelines), system design basics, and AI-assisted development workflows.
+
+💬 Ask me about
+Java, OOP & Design Patterns, Spring Boot, REST APIs, SQL, Full-Stack Development, DevOps basics, AWS (S3, Lambda, Glue, Athena), CI/CD concepts, Git/GitHub, Linux, and Agile practices.
+
+⚡ Fun fact
+I enjoy combining backend development, DevOps automation, and cloud infrastructure to turn complex systems into scalable, production-ready solutions—and I love using AI tools to boost productivity 🚀
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/om.biradar.18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adarsh-biradar-87141a261/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adarshbiradar56@gmail.com) 
