@@ -1,7 +1,7 @@
 
 ## 💫 About Me:
 
-🔭 I’m currently working on
+🔭 I’m currently working on the project 
 Building a Java-based Simple Operating System simulation to strengthen my understanding of low-level system concepts such as process scheduling, memory management, file systems, and system calls, while applying strong Java OOP and system design principles.
 
 👯 I’m looking to collaborate on
