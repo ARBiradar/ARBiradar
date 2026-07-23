@@ -11,6 +11,7 @@
   <a href="https://www.linkedin.com/in/adarsh-biradar-87141a261/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:adarshbiradar56@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/ARBiradar"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/AdarshRB/"><img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
 
 </div>
@@ -104,10 +105,14 @@ I'm a **Java Full Stack Developer** who builds scalable, production-grade system
 ## 🧩 DSA Practice
 
 <div align="center">
-<img src="https://leetcard.jacoblin.cool/ARBiradar?theme=dark&font=Fira%20Code&ext=heatmap" />
+
+<a href="https://leetcode.com/u/AdarshRB/"><img src="https://leetcard.jacoblin.cool/AdarshRB?theme=dark&font=Fira%20Code&ext=heatmap" /></a>
+
+<a href="https://leetcode.com/u/AdarshRB/"><img src="https://img.shields.io/badge/LeetCode-AdarshRB-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+
 </div>
 
-> Solving DSA problems daily — check out **[DSA-for-MAANG](https://github.com/ARBiradar/DSA-for-MAANG)** for auto-tracked solutions.
+> Solving DSA problems daily — check out my progress on **[LeetCode](https://leetcode.com/u/AdarshRB/)** and **[DSA-for-MAANG](https://github.com/ARBiradar/DSA-for-MAANG)** for auto-tracked solutions.
 
 <br/>
 
