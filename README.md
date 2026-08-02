@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Adarsh%20Biradar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full%20Stack%20Developer%20%7C%20AWS%20%7C%20DevOps&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://adarsh-portfolio-virid-six.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Java+Full+Stack+Developer;Spring+Boot+%7C+REST+APIs+%7C+React;AWS+%26+Multi-Cloud+Enthusiast;DevOps+%7C+CI%2FCD+%7C+Docker;Daily+DSA+Grinder+%F0%9F%94%A5;Building+Production-Ready+Systems&font=Fira+Code&center=true&width=650&height=50&duration=3000&pause=800&color=00C6FF&vCenter=true&size=22"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Java+Full+Stack+Developer;Spring+Boot+%7C+REST+APIs+%7C+React;AWS+%26+Multi-Cloud+Enthusiast;DevOps+%7C+CI%2FCD+%7C+Docker;Daily+DSA+Grinder+%F0%9F%94%A5;Building+Production-   Ready+Systems&font=Fira+Code&center=true&width=650&height=50&duration=3000&pause=800&color=00C6FF&vCenter=true&size=22"/>
 </a>
 
 <p>
