@@ -4,7 +4,7 @@
 
 <a href="https://adarsh-portfolio-virid-six.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com/?lines=Java+Full+Stack+Developer;Spring+Boot+%7C+REST+APIs+%7C+React;AWS+%26+Multi-Cloud+Enthusiast;DevOps+%7C+CI%2FCD+%7C+Docker;Daily+DSA+Grinder+%F0%9F%94%A5;Building+Production-   Ready+Systems&font=Fira+Code&center=true&width=650&height=50&duration=3000&pause=800&color=00C6FF&vCenter=true&size=22"/>
-</a>
+</a>  
 
 <p>
   <a href="https://adarsh-portfolio-virid-six.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0f2027?style=for-the-badge&logo=vercel&logoColor=00c6ff" /></a>
