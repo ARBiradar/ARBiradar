@@ -3,8 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Adarsh%20Biradar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full%20Stack%20Developer%20%7C%20AWS%20%7C%20DevOps&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://adarsh-portfolio-virid-six.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Java+Full+Stack+Developer;Spring+Boot+%7C+REST+APIs+%7C+React;AWS+%26+Multi-Cloud+Enthusiast;DevOps+%7C+CI%2FCD+%7C+Docker;Daily+DSA+Grinder+%F0%9F%94%A5;Building+Production-   Ready+Systems&font=Fira+Code&center=true&width=650&height=50&duration=3000&pause=800&color=00C6FF&vCenter=true&size=22"/>     
-</a>  
+  <img src="https://readme-typing-svg.demolab.com/?lines=Java+Full+Stack+Developer;Spring+Boot+%7C+REST+APIs+%7C+React;AWS+%26+Multi-Cloud+Enthusiast;DevOps+%7C+CI%2FCD+%7C+Docker;Daily+DSA+Grinder+%F0%9F%94%A5;Building+Production-Ready+Systems&font=Fira+Code&center=true&width=650&height=50&duration=3000&pause=800&color=00C6FF&vCenter=true&size=22"/>
+</a>
 
 <p>
   <a href="https://adarsh-portfolio-virid-six.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0f2027?style=for-the-badge&logo=vercel&logoColor=00c6ff" /></a>
@@ -45,8 +45,8 @@ I'm a **Java Full Stack Developer** who builds scalable, production-grade system
 
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens" />
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=swagger&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 
 **Frontend**
 
@@ -56,7 +56,7 @@ I'm a **Java Full Stack Developer** who builds scalable, production-grade system
 
 **Cloud & DevOps**
 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -106,7 +106,7 @@ I'm a **Java Full Stack Developer** who builds scalable, production-grade system
 
 <div align="center">
 
-<a href="https://leetcode.com/u/AdarshRB/"><img src="https://leetcard.jacoblin.cool/AdarshRB?theme=dark&font=Fira%20Code&ext=heatmap" /></a>
+<a href="https://leetcode.com/u/AdarshRB/"><img src="https://leetcard.jacoblin.cool/AdarshRB?theme=dark&font=Fira%20Code&extension=activeYears" /></a>
 
 <a href="https://leetcode.com/u/AdarshRB/"><img src="https://img.shields.io/badge/LeetCode-AdarshRB-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 
@@ -126,4 +126,3 @@ I'm a **Java Full Stack Developer** who builds scalable, production-grade system
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0f2027&height=100&section=footer" width="100%"/>
 
 </div>
-  
