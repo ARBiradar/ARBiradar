@@ -44,7 +44,7 @@ Tools
 🧩 DSA Practice
 <div align="center">
 
-<a href="https://leetcode.com/u/AdarshRB/"><img src="https://leetcard.jacoblin.cool/AdarshRB?theme=dark&font=Fira%20Code&extension=activeYears" /></a>
+<a href="https://leetcode.com/u/AdarshRB/"><img src="https://leetcard.jacoblin.cool/AdarshRB?theme=dark&font=Fira%20Code&ext=heatmap" /></a>
 
 <a href="https://leetcode.com/u/AdarshRB/"><img src="https://img.shields.io/badge/LeetCode-AdarshRB-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 
