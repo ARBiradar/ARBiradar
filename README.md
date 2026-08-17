@@ -48,18 +48,47 @@ I care about writing clean, well-architected code and shipping things that actua
 
 <div align="center">
 
-### Languages, Frameworks & Frontend
-<img src="https://skillicons.dev" />
+### Languages & Core
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
 
 <br/>
 
-### Cloud, DevOps & Databases
-<img src="https://skillicons.dev" />
+### Backend & Frameworks
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
 
 <br/>
 
-### Tools & OS
-<img src="https://skillicons.dev" />
+### Frontend
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+
+<br/>
+
+### Cloud & DevOps
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+
+<br/>
+
+### Databases & Tools
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
 
 </div>
 
@@ -70,19 +99,24 @@ I care about writing clean, well-architected code and shipping things that actua
 ## 📊 GitHub Stats
 
 <div align="center">
-<table border="0">
-  <tr>
-    <td><img height="165" src="https://github-readme-stats.vercel.app/api?username=ARBiradar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /></td>
-    <td><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARBiradar&layout=compact&theme=tokyonight&hide_border=true" /></td>
-  </tr>
-</table>
 
-<img src="https://streak-stats.demolab.com/?user=ARBiradar&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://vercel.app" />
+<img height="165" src="https://vercel.app" />
+
 <br/>
-<img src="https://github-profile-trophy.vercel.app/?username=ARBiradar&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
+
+<img src="https://demolab.com" />
+
 <br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ARBiradar&theme=tokyo-night&hide_border=true" width="100%"/>
+
+<img src="https://vercel.app" />
+
+<br/>
+
+<img src="https://vercel.app" width="100%"/>
+
 </div>
+
 
 <br/>
 
