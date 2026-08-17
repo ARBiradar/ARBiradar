@@ -7,23 +7,19 @@
 </a>
 
 <p>
-<a href="https://adarsh-portfolio-virid-six.vercel.app/">
+<a href="https://adarsh-portfolio-virid-six.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-Visit%20Now-0f2027?style=for-the-badge&logo=vercel&logoColor=00c6ff" />
 </a>
-
-<a href="https://www.linkedin.com/in/adarsh-biradar-87141a261/">
+<a href="https://www.linkedin.com/in/adarsh-biradar-87141a261/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="mailto:adarshbiradar56@gmail.com">
 <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-<a href="https://github.com/ARBiradar">
+<a href="https://github.com/ARBiradar" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<a href="https://leetcode.com/u/AdarshRB/">
+<a href="https://leetcode.com/u/AdarshRB/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 </p>
@@ -39,19 +35,12 @@ I'm a **Java Full Stack Developer** who builds scalable, production-grade system
 I care about writing clean, well-architected code and shipping things that actually run reliably in production, not just in a demo.
 
 🚀 **Core Focus:** Java (Spring Boot, REST APIs) · React · AWS · DevOps & CI/CD
-
 🧠 **Daily Habit:** Solving DSA problems consistently to sharpen problem-solving and ace system design thinking
-
-🏗️ **Currently Building:** A Java-based Operating System simulation — process scheduling, memory management, file systems & system calls, engineered with solid OOP and system-design principles
-
-☁️ **Cloud Focus:** Deploying and scaling applications across AWS (EC2, S3, Lambda, Glue, Athena) with an eye on multi-cloud architecture
-
-🤝 **Open to Collaborate On:** Spring Boot & React full-stack projects, DevOps pipelines, and cloud-native backend systems
+🏗️ **Currently Building:** [Java-based Operating System simulation](https://github.com/ARBiradar) — process scheduling, memory management, file systems & system calls, engineered with solid OOP and system-design principles.
+☁️ **Cloud Focus:** Deploying and scaling applications across AWS (EC2, S3, Lambda, Glue, Athena) with an eye on multi-cloud architecture.
+🤝 **Open to Collaborate On:** Spring Boot & React full-stack projects, DevOps pipelines, and cloud-native backend systems.
 
 💬 **Ask Me About:** Java · OOP & Design Patterns · Spring Boot · SQL · REST APIs · DevOps · AWS · CI/CD · Docker · Git · System Design
-
-🔗 **Explore my work:**  
-https://adarsh-portfolio-virid-six.vercel.app/
 
 <br/>
 
@@ -59,55 +48,18 @@ https://adarsh-portfolio-virid-six.vercel.app/
 
 <div align="center">
 
-### Languages & Core
-
-<img src="https://skillicons.dev/icons?i=java,js,html,css,c" />
-
-<br/>
-
-### Backend & Frameworks
-
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=swagger&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+### Languages, Frameworks & Frontend
+<img src="https://skillicons.dev" />
 
 <br/>
 
-### Frontend
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+### Cloud, DevOps & Databases
+<img src="https://skillicons.dev" />
 
 <br/>
 
-### Cloud & DevOps
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-
-<br/>
-
-### Databases
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-
-<br/>
-
-### Tools
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+### Tools & OS
+<img src="https://skillicons.dev" />
 
 </div>
 
@@ -118,35 +70,18 @@ https://adarsh-portfolio-virid-six.vercel.app/
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ARBiradar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARBiradar&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br/>
-
-<div align="center">
+<table border="0">
+  <tr>
+    <td><img height="165" src="https://github-readme-stats.vercel.app/api?username=ARBiradar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /></td>
+    <td><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARBiradar&layout=compact&theme=tokyonight&hide_border=true" /></td>
+  </tr>
+</table>
 
 <img src="https://streak-stats.demolab.com/?user=ARBiradar&theme=tokyonight&hide_border=true" />
-
-</div>
-
 <br/>
-
-<div align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=ARBiradar&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
-
-</div>
-
 <br/>
-
-<div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ARBiradar&theme=tokyo-night&hide_border=true" width="100%"/>
-
 </div>
 
 <br/>
@@ -157,25 +92,17 @@ https://adarsh-portfolio-virid-six.vercel.app/
 
 <div align="center">
 
-<a href="https://leetcode.com/u/AdarshRB/">
-
+<a href="https://leetcode.com/u/AdarshRB/" target="_blank">
 <img src="https://leetcard.jacoblin.cool/AdarshRB?theme=dark&font=Fira%20Code&ext=heatmap" />
-
 </a>
 
 <br/><br/>
 
-<a href="https://leetcode.com/u/AdarshRB/">
-
+<a href="https://leetcode.com/u/AdarshRB/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-AdarshRB-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-
 </a>
 
 </div>
-
-<br/>
-
-Solving DSA problems daily — check out my progress on **LeetCode** and **DSA-for-MAANG** for auto-tracked solutions.
 
 <br/>
 
@@ -185,16 +112,11 @@ Solving DSA problems daily — check out my progress on **LeetCode** and **DSA-f
 
 <div align="center">
 
-<a href="https://adarsh-portfolio-virid-six.vercel.app/">
-
+<a href="https://adarsh-portfolio-virid-six.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/View_My_Portfolio-00c6ff?style=for-the-badge&logo=googlechrome&logoColor=white" />
-
 </a>
-
-<a href="https://github.com/ARBiradar">
-
+<a href="https://github.com/ARBiradar" target="_blank">
 <img src="https://img.shields.io/badge/View_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
-
 </a>
 
 <br/><br/>
@@ -202,4 +124,3 @@ Solving DSA problems daily — check out my progress on **LeetCode** and **DSA-f
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0f2027&height=100&section=footer" width="100%"/>
 
 </div>
-```
