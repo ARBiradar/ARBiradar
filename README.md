@@ -1,36 +1,31 @@
 <div align="center">
 
-<!-- Visual Header Component -->
-<table width="100%" border="0" cellspacing="0" cellpadding="20" style="background: linear-gradient(135deg, #0f2027, #2c5364, #00c6ff); border-radius: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: white; text-align: center;">
-  <tr>
-    <td>
-      <h1 style="font-size: 42px; margin: 0 0 10px 0; letter-spacing: 1px; color: #ffffff; text-shadow: 0px 4px 10px rgba(0,198,255,0.5);">Adarsh Biradar</h1>
-      <p style="font-size: 20px; margin: 0; font-weight: 300; color: #e0f7fa; letter-spacing: 0.5px;">
-        Java Full Stack Developer &nbsp;|&nbsp; AWS Cloud &nbsp;|&nbsp; DevOps Engineer
-      </p>
-    </td>
-  </tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Adarsh%20Biradar&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Java%20Full%20Stack%20Developer%20%7C%20AWS%20%7C%20DevOps&descAlignY=55&descSize=18" width="100%"/>
 
-<br/>
+<a href="https://adarsh-portfolio-virid-six.vercel.app/">
+<img src="https://readme-typing-svg.demolab.com/?lines=Java+Full+Stack+Developer;Spring+Boot+%7C+REST+APIs+%7C+React;AWS+%26+Multi-Cloud+Enthusiast;DevOps+%7C+CI%2FCD+%7C+Docker;Daily+DSA+Grinder+%F0%9F%94%A5;Building+Production-Ready+Systems&font=Fira+Code&center=true&width=650&height=50&duration=3000&pause=800&color=00C6FF&vCenter=true&size=22" />
+</a>
 
-<!-- Interactive-Style Text Badges -->
-<p align="center">
-  <a href="https://vercel.app" target="_blank" style="text-decoration: none;">
-    <span style="background: #0f2027; color: #00c6ff; border: 1px solid #00c6ff; padding: 8px 16px; border-radius: 20px; font-weight: bold; font-size: 14px; margin: 0 5px; display: inline-block; box-shadow: 0 2px 5px rgba(0,198,255,0.2);">🌐 Portfolio</span>
-  </a>
-  <a href="https://linkedin.com" target="_blank" style="text-decoration: none;">
-    <span style="background: #0077B5; color: white; padding: 8px 16px; border-radius: 20px; font-weight: bold; font-size: 14px; margin: 0 5px; display: inline-block;">💼 LinkedIn</span>
-  </a>
-  <a href="mailto:adarshbiradar56@gmail.com" style="text-decoration: none;">
-    <span style="background: #D14836; color: white; padding: 8px 16px; border-radius: 20px; font-weight: bold; font-size: 14px; margin: 0 5px; display: inline-block;">✉️ Email</span>
-  </a>
-  <a href="https://github.com" target="_blank" style="text-decoration: none;">
-    <span style="background: #181717; color: white; padding: 8px 16px; border-radius: 20px; font-weight: bold; font-size: 14px; margin: 0 5px; display: inline-block;">🐙 GitHub</span>
-  </a>
-  <a href="https://leetcode.com" target="_blank" style="text-decoration: none;">
-    <span style="background: #FFA116; color: black; padding: 8px 16px; border-radius: 20px; font-weight: bold; font-size: 14px; margin: 0 5px; display: inline-block;">💡 LeetCode</span>
-  </a>
+<p>
+<a href="https://adarsh-portfolio-virid-six.vercel.app/">
+<img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-Visit%20Now-0f2027?style=for-the-badge&logo=vercel&logoColor=00c6ff" />
+</a>
+
+<a href="https://www.linkedin.com/in/adarsh-biradar-87141a261/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:adarshbiradar56@gmail.com">
+<img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/ARBiradar">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/AdarshRB/">
+<img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
 </p>
 
 </div>
@@ -39,102 +34,172 @@
 
 ## 👨‍💻 About Me
 
-I am a **Java Full Stack Developer** focused on engineering scalable backend systems, automating multi-cloud deployments, and writing production-grade microservices. 
+I'm a **Java Full Stack Developer** who builds scalable, production-grade systems end to end — from REST APIs and Spring Boot services to cloud-deployed, containerized full-stack applications.
 
-*   🚀 **Core Architecture**: Java (Spring Boot, Hibernate, REST APIs, JWT Security)
-*   ☁️ **Cloud Native**: Deploying high-availability infrastructure on AWS (EC2, S3, Lambda, Glue, Athena)
-*   📦 **DevOps & Pipeline Automation**: Containerization with Docker and robust CI/CD execution via GitHub Actions, Jenkins, and GitLab CI
-*   🧠 **Algorithmic Focus**: Active DSA problem solver building a core Java-engineered Operating System simulation (covering process scheduling, custom memory management, and file systems)
+I care about writing clean, well-architected code and shipping things that actually run reliably in production, not just in a demo.
 
----
+🚀 **Core Focus:** Java (Spring Boot, REST APIs) · React · AWS · DevOps & CI/CD
 
-## 🛠️ Professional Tech Stack
+🧠 **Daily Habit:** Solving DSA problems consistently to sharpen problem-solving and ace system design thinking
 
-*This section uses absolute text styling to guarantee 100% visibility for technical recruiters and automated resume parsers.*
+🏗️ **Currently Building:** A Java-based Operating System simulation — process scheduling, memory management, file systems & system calls, engineered with solid OOP and system-design principles
 
-<table width="100%" cellpadding="10" cellspacing="5" border="0" style="font-family: sans-serif;">
-  <tr>
-    <td width="25%" valign="top" style="font-weight: bold; color: #00c6ff; border-bottom: 1px solid #2c5364; padding-top: 15px;">☕ Languages & Core</td>
-    <td width="75%" style="border-bottom: 1px solid #2c5364; padding-top: 15px;">
-      <span style="background: #232f3e; color: white; padding: 4px 10px; border-radius: 4px; margin-right: 5px; display: inline-block; font-size: 13px;">Java (SE/EE)</span>
-      <span style="background: #232f3e; color: white; padding: 4px 10px; border-radius: 4px; margin-right: 5px; display: inline-block; font-size: 13px;">JavaScript</span>
-      <span style="background: #232f3e; color: white; padding: 4px 10px; border-radius: 4px; margin-right: 5px; display: inline-block; font-size: 13px;">C Programming</span>
-      <span style="background: #232f3e; color: white; padding: 4px 10px; border-radius: 4px; display: inline-block; font-size: 13px;">HTML5 & CSS3</span>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" style="font-weight: bold; color: #00c6ff; border-bottom: 1px solid #2c5364; padding-top: 15px;">⚙️ Backend & Frameworks</td>
-    <td style="border-bottom: 1px solid #2c5364; padding-top: 15px;">
-      <span style="background: #6DB33F; color: white; padding: 4px 10px; border-radius: 4px; margin-right: 5px; display: inline-block; font-size: 13px; font-weight: bold;">Spring Boot</span>
-      <span style="background: #232f3e; color: white; padding: 4px 10px; border-radius: 4px; margin-right: 5px; display: inline-block; font-size: 13px;">Hibernate ORM</span>
-      <span style="background: #232f3e; color: white; padding: 4px 10px; border-radius: 4px; margin-right: 5px; display: inline-block; font-size: 13px;">RESTful APIs</span>
-      <span style="background: #232f3e; color: white; padding: 4px 10px; border-radius: 4px; display: inline-block; font-size: 13px;">JWT Architecture</span>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" style="font-weight: bold; color: #00c6ff; border-bottom: 1px solid #2c5364; padding-top: 15px;">🎨 UI Frontends</td>
-    <td style="border-bottom: 1px solid #2c5364; padding-top: 15px;">
-      <span style="background: #20232A; color: #61DAFB; padding: 4px 10px; border-radius: 4px; margin-right: 5px; display: inline-block; font-size: 13px; font-weight: bold;">React.js</span>
-      <span style="background: #232f3e; color: white; padding: 4px 10px; border-radius: 4px; margin-right: 5px; display: inline-block; font-size: 13px;">Angular</span>
-      <span style="background: #232f3e; color: white; padding: 4px 10px; border-radius: 4px; display: inline-block; font-size: 13px;">SASS / SCSS</span>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" style="font-weight: bold; color: #00c6ff; border-bottom: 1px solid #2c5364; padding-top: 15px;">☁️ AWS & DevOps</td>
-    <td style="border-bottom: 1px solid #2c5364; padding-top: 15px;">
-      <span style="background: #FF9900; color: black; padding: 4px 10px; border-radius: 4px; margin-right: 5px; display: inline-block; font-size: 13px; font-weight: bold;">Amazon Web Services</span>
-      <span style="background: #2496ED; color: white; padding: 4px 10px; border-radius: 4px; margin-right: 5px; display: inline-block; font-size: 13px;">Docker</span>
-      <span style="background: #232f3e; color: white; padding: 4px 10px; border-radius: 4px; margin-right: 5px; display: inline-block; font-size: 13px;">GitHub Actions</span>
-      <span style="background: #232f3e; color: white; padding: 4px 10px; border-radius: 4px; margin-right: 5px; display: inline-block; font-size: 13px;">Jenkins</span>
-      <span style="background: #232f3e; color: white; padding: 4px 10px; border-radius: 4px; display: inline-block; font-size: 13px;">Azure & GCP Basics</span>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" style="font-weight: bold; color: #00c6ff; padding-top: 15px;">💾 Data & Workflow</td>
-    <td style="padding-top: 15px;">
-      <span style="background: #232f3e; color: white; padding: 4px 10px; border-radius: 4px; margin-right: 5px; display: inline-block; font-size: 13px;">MySQL</span>
-      <span style="background: #232f3e; color: white; padding: 4px 10px; border-radius: 4px; margin-right: 5px; display: inline-block; font-size: 13px;">MongoDB</span>
-      <span style="background: #232f3e; color: white; padding: 4px 10px; border-radius: 4px; margin-right: 5px; display: inline-block; font-size: 13px;">Postman API Testing</span>
-      <span style="background: #232f3e; color: white; padding: 4px 10px; border-radius: 4px; display: inline-block; font-size: 13px;">Git Version Control</span>
-    </td>
-  </tr>
-</table>
+☁️ **Cloud Focus:** Deploying and scaling applications across AWS (EC2, S3, Lambda, Glue, Athena) with an eye on multi-cloud architecture
 
----
+🤝 **Open to Collaborate On:** Spring Boot & React full-stack projects, DevOps pipelines, and cloud-native backend systems
 
-## 🚀 Projects & System Engineering
+💬 **Ask Me About:** Java · OOP & Design Patterns · Spring Boot · SQL · REST APIs · DevOps · AWS · CI/CD · Docker · Git · System Design
 
-### 💻 Java-Based Operating System Simulation 
-*Engineered robust simulation architecture tracing core OS functionalities inside an objective runtime environment.*
-*   **Process Management**: Designed multi-level feedback queue scheduling algorithms optimizing processing latency.
-*   **Memory Virtualization**: Created custom heap space partition schemas with active garbage collections rules.
-*   **File Allocations**: Implemented structured inode indexing trees managing virtual block input/outputs streams.
-*   👉 **[Explore The Repository Source Code](https://github.com)**
-
----
-
-## 📊 Live Metrics & Problem Solving Progress
-
-<div align="center">
-
-*(If graphics are loading slowly due to GitHub proxy server traffic, tracking updates can be viewed directly on my external profiles via the contact links above.)*
+🔗 **Explore my work:**  
+https://adarsh-portfolio-virid-six.vercel.app/
 
 <br/>
 
-<img src="https://vercel.app" alt="GitHub Stats" height="165" />
-<img src="https://vercel.app" alt="Top Languages" height="165" />
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages & Core
+
+<img src="https://skillicons.dev/icons?i=java,js,html,css,c" />
+
+<br/>
+
+### Backend & Frameworks
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=swagger&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+
+<br/>
+
+### Frontend
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+
+<br/>
+
+### Cloud & DevOps
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+
+<br/>
+
+### Databases
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+
+<br/>
+
+### Tools
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
+</div>
+
+<br/>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ARBiradar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARBiradar&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=ARBiradar&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ARBiradar&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ARBiradar&theme=tokyo-night&hide_border=true" width="100%"/>
+
+</div>
+
+<br/>
+
+---
+
+## 🧩 DSA Practice
+
+<div align="center">
+
+<a href="https://leetcode.com/u/AdarshRB/">
+
+<img src="https://leetcard.jacoblin.cool/AdarshRB?theme=dark&font=Fira%20Code&ext=heatmap" />
+
+</a>
 
 <br/><br/>
 
-<img src="https://demolab.com" alt="GitHub Streak" />
+<a href="https://leetcode.com/u/AdarshRB/">
+
+<img src="https://img.shields.io/badge/LeetCode-AdarshRB-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+
+</a>
 
 </div>
 
 <br/>
 
+Solving DSA problems daily — check out my progress on **LeetCode** and **DSA-for-MAANG** for auto-tracked solutions.
+
+<br/>
+
 ---
 
+## 🚀 Let's Build Something Great Together
+
 <div align="center">
-  <h3 style="color: #00c6ff;">Let's Architect Something Scale Ready Together</h3>
-  <p>Available for Full Stack System Roles • DevOps Automations • Backend Architecture Projects</p>
+
+<a href="https://adarsh-portfolio-virid-six.vercel.app/">
+
+<img src="https://img.shields.io/badge/View_My_Portfolio-00c6ff?style=for-the-badge&logo=googlechrome&logoColor=white" />
+
+</a>
+
+<a href="https://github.com/ARBiradar">
+
+<img src="https://img.shields.io/badge/View_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0f2027&height=100&section=footer" width="100%"/>
+
 </div>
+```
