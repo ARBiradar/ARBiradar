@@ -15,7 +15,7 @@
 </a>
 <a href="mailto:adarshbiradar56@gmail.com">
 <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+</a>     
 <a href="https://github.com/ARBiradar">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
