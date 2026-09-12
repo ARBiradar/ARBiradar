@@ -1,248 +1,106 @@
-<div align="center">
+# Adarsh Biradar
 
-<!-- =========================== HERO =========================== -->
+*Java Full-Stack Developer — Spring Boot, REST APIs, React, AWS*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050816,45:0B1B33,75:123C69,100:00D9FF&text=ADARSH%20BIRADAR&fontSize=50&fontColor=FFFFFF&fontAlignY=35&animation=twinkling&desc=JAVA%20FULL%20STACK%20DEVELOPER%20%7C%20BACKEND%20%7C%20CLOUD%20%7C%20DEVOPS&descAlignY=56&descSize=17&descColor=8DE8FF" alt="Animated Adarsh Biradar profile header"/>
-
-<a href="https://adarsh-portfolio-virid-six.vercel.app/">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=700&color=00D9FF&center=true&vCenter=true&width=820&height=45&lines=Building+backend+systems+that+actually+ship.;Java+%7C+Spring+Boot+%7C+REST+APIs+%7C+React;AWS+%7C+Azure+%7C+GCP+%7C+Docker+%7C+CI%2FCD;DSA+every+day+%7C+System+design+through+practice;Currently+building+a+Java-based+Operating+System+simulation." alt="Animated developer introduction" />
-</a>
+[Portfolio](https://adarsh-portfolio-virid-six.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/adarsh-biradar-87141a261/) · [Email](mailto:adarshbiradar56@gmail.com) · [GitHub](https://github.com/ARBiradar) · [LeetCode](https://leetcode.com/u/AdarshRB/) · [HackerRank](https://www.hackerrank.com/profile/adarshbiradar56)
+<!-- 🔧 MANUAL: add ` · [Resume](PASTE_URL_HERE)` to the line above once you have a public resume link -->
 
 <br/>
 
-<a href="https://adarsh-portfolio-virid-six.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-07111F?style=for-the-badge&logo=vercel&logoColor=00D9FF&labelColor=07111F" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/adarsh-biradar-87141a261/"><img src="https://img.shields.io/badge/LINKEDIN-07111F?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=07111F" alt="LinkedIn"/></a>
-<a href="mailto:adarshbiradar56@gmail.com"><img src="https://img.shields.io/badge/EMAIL-07111F?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=07111F" alt="Email"/></a>
-<a href="https://github.com/ARBiradar"><img src="https://img.shields.io/badge/GITHUB-07111F?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=07111F" alt="GitHub"/></a>
-<a href="https://leetcode.com/u/AdarshRB/"><img src="https://img.shields.io/badge/LEETCODE-07111F?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=07111F" alt="LeetCode"/></a>
-<a href="https://www.hackerrank.com/profile/adarshbiradar56"><img src="https://img.shields.io/badge/HACKERRANK-07111F?style=for-the-badge&logo=hackerrank&logoColor=2EC866&labelColor=07111F" alt="HackerRank"/></a>
+### 01 — About
 
-<br/><br/>
+I build scalable, production-grade systems end to end — from REST APIs and Spring Boot services to cloud-deployed, containerized full-stack applications. My work spans multi-cloud deployment on AWS, Azure, and GCP, and DevOps automation with Jenkins, GitHub Actions, GitLab CI, and Docker.
 
-<img src="https://komarev.com/ghpvc/?username=ARBiradar&style=flat-square&color=00D9FF&label=PROFILE+VIEWS" alt="Profile views"/>
+Outside of client-facing work, I practice DSA daily to keep my problem-solving and system-design thinking sharp, and I'm currently building a Java-based operating system simulation — process scheduling, memory management, file systems, and system calls — grounded in OOP and system-design fundamentals.
 
-</div>
+I care about writing clean, well-architected code that holds up in production, not just in a demo.
 
-01 — Developer Profile
+<br/>
 
-<table>
-<tr>
-<td valign="top" width="62%">
+### 02 — Stack
 
-👋 Hello, I'm Adarsh
+| | |
+|---|---|
+| Languages | `Java` `JavaScript` `HTML` `CSS` `C` |
+| Backend | `Spring Boot` `Hibernate` `REST APIs` `JWT` |
+| Frontend | `React` `Angular` `SASS` |
+| Cloud & DevOps | `AWS` `Azure` `GCP` `Docker` `Jenkins` `GitHub Actions` `GitLab CI` |
+| Databases | `MySQL` `MongoDB` `MS SQL Server` |
+| Tools | `Git` `Linux` `Jira` `Postman` |
 
-I’m a Java Full Stack Developer focused on building reliable applications end to end — from Spring Boot services and REST APIs to React interfaces, databases, containers, CI/CD pipelines, and cloud deployment.
+<br/>
 
-My engineering interests sit at the intersection of backend development, cloud infrastructure, DevOps, and problem solving. I prefer learning by building systems that force me to understand what is happening underneath the abstraction.
+### 03 — GitHub Activity
 
-</td>
-<td valign="top" width="38%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ARBiradar/ARBiradar/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ARBiradar/ARBiradar/output/github-snake.svg" />
+  <img alt="Adarsh's contribution graph as a snake animation" src="https://raw.githubusercontent.com/ARBiradar/ARBiradar/output/github-snake.svg" width="100%"/>
+</picture>
 
-╭────────────────────────────╮
-│       CURRENT STATUS       │
-├────────────────────────────┤
-│ Role     : Java Full Stack │
-│ Focus    : Backend / APIs  │
-│ Cloud    : AWS / Azure/GCP │
-│ DevOps   : Docker / CI-CD  │
-│ DSA      : Daily practice  │
-│ Build    : OS Simulation   │
-╰────────────────────────────╯
+<!-- 🔧 MANUAL, ONE-TIME SETUP REQUIRED: the animation above and the metrics panel below don't render until you add two small GitHub Actions to your ARBiradar/ARBiradar repo. See "External services" in the maintenance guide for the exact YAML — it's copy-paste, no coding needed, and both update on their own daily after that. -->
 
-</td>
-</tr>
-</table>
+<img alt="Adarsh's GitHub metrics" src="https://raw.githubusercontent.com/ARBiradar/ARBiradar/main/github-metrics.svg" width="100%"/>
 
-02 — Engineering Radar
+<br/>
 
-<div align="center">
+### 04 — Coding Profiles
 
-🧠 BUILD
+**LeetCode** — [`AdarshRB`](https://leetcode.com/u/AdarshRB/)
 
-☁️ DEPLOY
+![LeetCode problems solved](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2FAdarshRB%2Fsolved&label=Solved&query=solvedProblem&color=FFA116&style=flat-square&labelColor=1a1a1a)
+![LeetCode easy solved](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2FAdarshRB%2Fsolved&label=Easy&query=easySolved&color=5CB85C&style=flat-square&labelColor=1a1a1a)
+![LeetCode medium solved](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2FAdarshRB%2Fsolved&label=Medium&query=mediumSolved&color=F0AD4E&style=flat-square&labelColor=1a1a1a)
+![LeetCode hard solved](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2FAdarshRB%2Fsolved&label=Hard&query=hardSolved&color=D9534F&style=flat-square&labelColor=1a1a1a)
 
-⚙️ AUTOMATE
+*These pull live from your public LeetCode profile via a free community API (alfa-leetcode-api). The API runs on a free instance that can take a few seconds to "wake up" on first load — see the maintenance guide.*
 
-🧩 SOLVE
+**HackerRank** — [`adarshbiradar56`](https://www.hackerrank.com/profile/adarshbiradar56)
 
-Java + Spring Boot
+HackerRank doesn't expose a public stats API, so there's no reliable widget for badges, stars, or certifications — the link above stays a direct link to your live profile.
 
-AWS / Azure / GCP
+<!-- 🔧 OPTIONAL: your old README didn't mention other coding platforms (CodeChef, Codeforces, GeeksforGeeks, etc.) — send usernames and I'll wire up dynamic badges where an API exists. -->
 
-Docker + CI/CD
+<br/>
 
-DSA + system thinking
+### 05 — Featured Projects
 
-</div>
+> **Java OS Simulation** — *in progress*
+> Simulates core operating-system concepts: process scheduling, memory management, file systems, and system calls, built on OOP and system-design fundamentals.
+> Tech: `Java` `OOP` `System Design` — Repository: `ADD_LINK_HERE`
 
-What I'm working on
+> 🔧 **Add your next project** — one achievement-oriented line on what it does and who it's for.
+> Tech: `ADD_STACK_HERE` — Repository: `ADD_LINK_HERE` · Live demo: `ADD_LINK_HERE (if any)`
 
-Java-based Operating System Simulation — a systems project covering process scheduling, memory management, file systems, system calls, OOP, and system-design principles.
+<!-- 🔧 MANUAL — REQUIRED: your old README only ever mentioned the OS simulation project by name. No other repo names, descriptions, or links were given, so nothing else is invented here. Send me your repos and I'll write the rest. -->
 
-What I'm sharpening
+<br/>
 
-Data Structures & Algorithms · Backend Architecture · REST API Design · Cloud Deployment · CI/CD · Docker · System Design
+### 06 — Currently Exploring
 
-03 — Tech Stack
+Operating systems internals and system design — the two threads running through the OS simulation project above.
+<!-- 🔧 MANUAL: inferred from your OS-simulation project; edit freely if there's something else you're actively learning -->
 
-☕ Core
+<br/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,html,css,c" alt="Java JavaScript HTML CSS C" />
-</p>
+### 07 — Achievements
 
-⚙️ Backend & APIs
+*No certifications, hackathon results, or numeric milestones were listed in your previous README, so none are fabricated here. Send real ones — certifications, hackathons, DSA milestones — and they'll be added in this same plain style.*
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,hibernate" alt="Spring and Hibernate" />
-<img src="https://img.shields.io/badge/REST%20APIs-07111F?style=for-the-badge&logo=swagger&logoColor=85EA2D" alt="REST APIs" />
-<img src="https://img.shields.io/badge/JWT-07111F?style=for-the-badge&logo=jsonwebtokens&logoColor=FFFFFF" alt="JWT" />
-</p>
+<br/>
 
-🎨 Frontend
+### 08 — Education
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,angular,sass" alt="React Angular Sass" />
-</p>
+*Your previous README didn't include a degree, institution, location, or dates. Send them and they'll appear here, e.g.:*
 
-☁️ Cloud & DevOps
+> B.E./B.Tech in Computer Science — Your College/University, City · 20XX–20XX
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,jenkins,githubactions,gitlab" alt="AWS Azure GCP Docker Jenkins GitHub Actions GitLab" />
-</p>
+<br/>
 
-AWS services: EC2 S3 Lambda Glue Athena
+---
 
-🗄️ Data
+<br/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL and MongoDB" />
-<img src="https://img.shields.io/badge/MS%20SQL%20SERVER-07111F?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" alt="Microsoft SQL Server" />
-</p>
+**Get in touch:** [Portfolio](https://adarsh-portfolio-virid-six.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/adarsh-biradar-87141a261/) · [Email](mailto:adarshbiradar56@gmail.com) · [GitHub](https://github.com/ARBiradar)
 
-🛠️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,linux,postman" alt="Git Linux Postman" />
-<img src="https://img.shields.io/badge/JIRA-07111F?style=for-the-badge&logo=jira&logoColor=2684FF" alt="Jira" />
-</p>
-
-04 — GitHub Telemetry
-
-<div align="center">
-
-<a href="https://github.com/ARBiradar">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ARBiradar&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />
-</a>
-<a href="https://github.com/ARBiradar">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARBiradar&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/ARBiradar">
-<img src="https://streak-stats.demolab.com/?user=ARBiradar&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub contribution streak" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/ARBiradar">
-<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=ARBiradar&bg_color=0D1117&color=8DE8FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" />
-</a>
-
-</div>
-
-05 — Coding Lab
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-🟧 LeetCode — Live
-
-<a href="https://leetcode.com/u/AdarshRB/">
-<img width="100%" src="https://leetcard.jacoblin.cool/AdarshRB?theme=dark&font=JetBrains%20Mono&ext=heatmap&animation=true" alt="Live AdarshRB LeetCode statistics and heatmap" />
-</a>
-
-Handle: AdarshRB
-
-</td>
-<td width="50%" valign="top">
-
-🟩 HackerRank
-
-<a href="https://www.hackerrank.com/profile/adarshbiradar56">
-<img width="100%" src="https://img.shields.io/badge/OPEN%20LIVE%20PROFILE-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Open HackerRank live profile" />
-</a>
-
-Handle: adarshbiradar56
-
-HackerRank's public profile data does not have a comparably reliable, GitHub-native live card for the metrics I would want to display. The profile link therefore stays live instead of showing hard-coded or potentially stale numbers.
-
-</td>
-</tr>
-</table>
-
-Live-data design: LeetCode uses the actively maintained LeetCard service, which supports dynamically generated stats, animation, and a heatmap extension. citeturn660895search0turn660895search2
-
-06 — Featured Build
-
-🖥️ Java Operating System Simulation
-
-SYSTEM PROJECT
-
-Process Scheduling   ██████████
-Memory Management    ██████████
-File Systems         ██████████
-System Calls         ██████████
-OOP / Architecture   ██████████
-
-A Java-based operating system simulation designed to explore core systems concepts through implementation rather than theory alone.
-
-Focus: Process Scheduling · Memory Management · File Systems · System Calls · OOP · System Design
-
-The original README did not provide a repository URL or demo URL for this project, so no link is fabricated here.
-
-07 — Education
-
-<div align="center">
-
-🎓 Master of Computer Applications (MCA)
-
-Cochin University of Science and Technology (CUSAT)
-
-</div>
-
-08 — Engineering Principles
-
-public class Adarsh {
-
-    String philosophy = "Understand it. Build it. Ship it. Improve it.";
-
-    void dailyLoop() {
-        learn("DSA + Backend + Cloud + DevOps");
-        build("real systems");
-        debug("until it works");
-        refactor("until it is maintainable");
-        ship("to production");
-    }
-}
-
-09 — Connect
-
-<div align="center">
-
-<a href="https://adarsh-portfolio-virid-six.vercel.app/">🌐 <b>Portfolio</b></a> ·
-<a href="https://www.linkedin.com/in/adarsh-biradar-87141a261/">💼 <b>LinkedIn</b></a> ·
-<a href="https://github.com/ARBiradar">🐙 <b>GitHub</b></a> ·
-<a href="https://leetcode.com/u/AdarshRB/">🧩 <b>LeetCode</b></a> ·
-<a href="https://www.hackerrank.com/profile/adarshbiradar56">🟢 <b>HackerRank</b></a> ·
-<a href="mailto:adarshbiradar56@gmail.com">✉️ <b>Email</b></a>
-
-<br/><br/>
-
-CODE • SHIP • LEARN • REPEAT
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:00D9FF,50:123C69,100:050816" alt="Footer divider"/>
-
-</div>
+Open to backend / full-stack roles.
