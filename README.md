@@ -1,327 +1,248 @@
 <div align="center">
 
-<a href="https://github.com/ARBiradar">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,45:16213e,75:007ea7,100:00c6ff&height=230&section=header&text=ADARSH%20BIRADAR&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=JAVA%20FULL%20STACK%20DEVELOPER%20%E2%80%A2%20CLOUD%20%E2%80%A2%20DEVOPS&descAlignY=55&descSize=17&descColor=9be7ff" width="100%" alt="Adarsh Biradar GitHub profile header"/>
-</a>
+<!-- =========================== HERO =========================== -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050816,45:0B1B33,75:123C69,100:00D9FF&text=ADARSH%20BIRADAR&fontSize=50&fontColor=FFFFFF&fontAlignY=35&animation=twinkling&desc=JAVA%20FULL%20STACK%20DEVELOPER%20%7C%20BACKEND%20%7C%20CLOUD%20%7C%20DEVOPS&descAlignY=56&descSize=17&descColor=8DE8FF" alt="Animated Adarsh Biradar profile header"/>
 
 <a href="https://adarsh-portfolio-virid-six.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&pause=900&color=00C6FF&center=true&vCenter=true&width=760&height=45&lines=Java+%2B+Spring+Boot+%7C+REST+APIs;Full+Stack+Engineering+%7C+React;AWS+%7C+Azure+%7C+GCP;Docker+%7C+CI%2FCD+%7C+DevOps;DSA+%7C+Problem+Solving+%7C+System+Design;Building+Production-Ready+Systems" alt="Animated developer roles and technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=700&color=00D9FF&center=true&vCenter=true&width=820&height=45&lines=Building+backend+systems+that+actually+ship.;Java+%7C+Spring+Boot+%7C+REST+APIs+%7C+React;AWS+%7C+Azure+%7C+GCP+%7C+Docker+%7C+CI%2FCD;DSA+every+day+%7C+System+design+through+practice;Currently+building+a+Java-based+Operating+System+simulation." alt="Animated developer introduction" />
 </a>
 
 <br/>
 
-<a href="https://adarsh-portfolio-virid-six.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-00C6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/adarsh-biradar-87141a261/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:adarshbiradar56@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/ARBiradar">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://leetcode.com/u/AdarshRB/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-</a>
-<a href="https://www.hackerrank.com/profile/adarshbiradar56">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-</a>
+<a href="https://adarsh-portfolio-virid-six.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-07111F?style=for-the-badge&logo=vercel&logoColor=00D9FF&labelColor=07111F" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/adarsh-biradar-87141a261/"><img src="https://img.shields.io/badge/LINKEDIN-07111F?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=07111F" alt="LinkedIn"/></a>
+<a href="mailto:adarshbiradar56@gmail.com"><img src="https://img.shields.io/badge/EMAIL-07111F?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=07111F" alt="Email"/></a>
+<a href="https://github.com/ARBiradar"><img src="https://img.shields.io/badge/GITHUB-07111F?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=07111F" alt="GitHub"/></a>
+<a href="https://leetcode.com/u/AdarshRB/"><img src="https://img.shields.io/badge/LEETCODE-07111F?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=07111F" alt="LeetCode"/></a>
+<a href="https://www.hackerrank.com/profile/adarshbiradar56"><img src="https://img.shields.io/badge/HACKERRANK-07111F?style=for-the-badge&logo=hackerrank&logoColor=2EC866&labelColor=07111F" alt="HackerRank"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ARBiradar&style=for-the-badge&color=00c6ff&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=ARBiradar&style=flat-square&color=00D9FF&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
-> whoami
-
-Adarsh Biradar
-├── Role       : Java Full Stack Developer
-├── Focus      : Backend • REST APIs • Full Stack Engineering
-├── Cloud      : AWS • Azure • GCP
-├── DevOps     : Docker • Jenkins • GitHub Actions • GitLab CI
-├── DSA        : Daily problem solving
-└── Currently  : Building a Java-based Operating System simulation
-
-I build scalable, production-oriented applications from backend services and REST APIs to containerized, cloud-deployed full-stack systems.
-
-My strongest areas are Java, Spring Boot, REST APIs, databases, cloud deployment, DevOps, and problem solving. I care about clean architecture, maintainable code, and systems that work beyond a demo environment.
-
-⚡ Current Focus
+01 — Developer Profile
 
 <table>
 <tr>
-<td width="50%">
+<td valign="top" width="62%">
 
-🏗️ Building
+👋 Hello, I'm Adarsh
 
-Java-based Operating System Simulation
+I’m a Java Full Stack Developer focused on building reliable applications end to end — from Spring Boot services and REST APIs to React interfaces, databases, containers, CI/CD pipelines, and cloud deployment.
 
-A systems-oriented project covering:
-
-Process scheduling
-
-Memory management
-
-File systems
-
-System calls
-
-OOP and system-design principles
+My engineering interests sit at the intersection of backend development, cloud infrastructure, DevOps, and problem solving. I prefer learning by building systems that force me to understand what is happening underneath the abstraction.
 
 </td>
-<td width="50%">
+<td valign="top" width="38%">
 
-🧠 Improving
-
-Data Structures & Algorithms
-
-Backend architecture
-
-REST API design
-
-Cloud & multi-cloud deployment
-
-CI/CD automation
-
-Docker-based workflows
-
-System design thinking
+╭────────────────────────────╮
+│       CURRENT STATUS       │
+├────────────────────────────┤
+│ Role     : Java Full Stack │
+│ Focus    : Backend / APIs  │
+│ Cloud    : AWS / Azure/GCP │
+│ DevOps   : Docker / CI-CD  │
+│ DSA      : Daily practice  │
+│ Build    : OS Simulation   │
+╰────────────────────────────╯
 
 </td>
 </tr>
 </table>
 
-🧰 Engineering Stack
+02 — Engineering Radar
 
-☕ Languages & Core
+<div align="center">
+
+🧠 BUILD
+
+☁️ DEPLOY
+
+⚙️ AUTOMATE
+
+🧩 SOLVE
+
+Java + Spring Boot
+
+AWS / Azure / GCP
+
+Docker + CI/CD
+
+DSA + system thinking
+
+</div>
+
+What I'm working on
+
+Java-based Operating System Simulation — a systems project covering process scheduling, memory management, file systems, system calls, OOP, and system-design principles.
+
+What I'm sharpening
+
+Data Structures & Algorithms · Backend Architecture · REST API Design · Cloud Deployment · CI/CD · Docker · System Design
+
+03 — Tech Stack
+
+☕ Core
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,html,css,c" alt="Java JavaScript HTML CSS C"/>
+<img src="https://skillicons.dev/icons?i=java,js,html,css,c" alt="Java JavaScript HTML CSS C" />
 </p>
 
-⚙️ Backend
+⚙️ Backend & APIs
 
 <p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
-<img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=swagger&logoColor=white" alt="REST APIs"/>
-<img src="https://img.shields.io/badge/JWT-111827?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+<img src="https://skillicons.dev/icons?i=spring,hibernate" alt="Spring and Hibernate" />
+<img src="https://img.shields.io/badge/REST%20APIs-07111F?style=for-the-badge&logo=swagger&logoColor=85EA2D" alt="REST APIs" />
+<img src="https://img.shields.io/badge/JWT-07111F?style=for-the-badge&logo=jsonwebtokens&logoColor=FFFFFF" alt="JWT" />
 </p>
 
 🎨 Frontend
 
 <p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-<img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS"/>
+<img src="https://skillicons.dev/icons?i=react,angular,sass" alt="React Angular Sass" />
 </p>
 
 ☁️ Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,jenkins,githubactions,gitlab" alt="AWS Azure GCP Docker Jenkins GitHub Actions GitLab"/>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,jenkins,githubactions,gitlab" alt="AWS Azure GCP Docker Jenkins GitHub Actions GitLab" />
 </p>
 
-AWS: EC2 • S3 • Lambda • Glue • Athena
+AWS services: EC2 S3 Lambda Glue Athena
 
-🗄️ Databases
+🗄️ Data
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL MongoDB"/>
-<img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL and MongoDB" />
+<img src="https://img.shields.io/badge/MS%20SQL%20SERVER-07111F?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" alt="Microsoft SQL Server" />
 </p>
 
-🔧 Tools
+🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,linux,postman" alt="Git Linux Postman"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+<img src="https://skillicons.dev/icons?i=git,linux,postman" alt="Git Linux Postman" />
+<img src="https://img.shields.io/badge/JIRA-07111F?style=for-the-badge&logo=jira&logoColor=2684FF" alt="Jira" />
 </p>
 
-📊 GitHub — Live Engineering Dashboard
+04 — GitHub Telemetry
 
 <div align="center">
 
 <a href="https://github.com/ARBiradar">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=ARBiradar&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="Adarsh Biradar GitHub statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ARBiradar&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />
 </a>
 <a href="https://github.com/ARBiradar">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARBiradar&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Adarsh Biradar top programming languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARBiradar&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/ARBiradar">
+<img src="https://streak-stats.demolab.com/?user=ARBiradar&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub contribution streak" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/ARBiradar">
-  <img src="https://streak-stats.demolab.com/?user=ARBiradar&theme=tokyonight&hide_border=true&background=0D1117&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF" alt="Adarsh Biradar GitHub contribution streak"/>
-</a>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ARBiradar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub achievements"/>
-
-<br/><br/>
-
-<a href="https://github.com/ARBiradar">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ARBiradar&bg_color=0D1117&color=00C6FF&line=00C6FF&point=FFFFFF&area=true&hide_border=true" width="96%" alt="GitHub contribution activity graph"/>
+<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=ARBiradar&bg_color=0D1117&color=8DE8FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" />
 </a>
 
 </div>
 
-Note: GitHub statistics, languages, streaks and activity visualizations are rendered dynamically from the GitHub profile rather than hard-coded numbers.
+05 — Coding Lab
 
-🧩 Problem Solving — LeetCode
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
+🟧 LeetCode — Live
 
 <a href="https://leetcode.com/u/AdarshRB/">
-  <img src="https://leetcard.jacoblin.cool/AdarshRB?theme=dark&font=Fira%20Code&ext=heatmap" width="720" alt="AdarshRB LeetCode statistics and activity heatmap"/>
+<img width="100%" src="https://leetcard.jacoblin.cool/AdarshRB?theme=dark&font=JetBrains%20Mono&ext=heatmap&animation=true" alt="Live AdarshRB LeetCode statistics and heatmap" />
 </a>
 
-<br/><br/>
+Handle: AdarshRB
 
-<a href="https://leetcode.com/u/AdarshRB/">
-  <img src="https://img.shields.io/badge/LeetCode-AdarshRB-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="AdarshRB LeetCode profile"/>
-</a>
+</td>
+<td width="50%" valign="top">
 
-</div>
-
-Focus: Data Structures • Algorithms • Problem Solving • Interview Readiness
-
-The LeetCode card is intentionally dynamic, so progress such as solved-problem counts and the activity heatmap can change without manually editing this README.
-
-🟢 HackerRank
-
-<div align="center">
+🟩 HackerRank
 
 <a href="https://www.hackerrank.com/profile/adarshbiradar56">
-  <img src="https://img.shields.io/badge/HackerRank-@adarshbiradar56-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Adarsh Biradar HackerRank profile"/>
+<img width="100%" src="https://img.shields.io/badge/OPEN%20LIVE%20PROFILE-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Open HackerRank live profile" />
 </a>
 
-<br/><br/>
+Handle: adarshbiradar56
 
-<a href="https://www.hackerrank.com/profile/adarshbiradar56">
-  <img src="https://img.shields.io/badge/View%20Live%20Profile-111827?style=for-the-badge&logo=hackerrank&logoColor=2EC866" alt="View HackerRank profile"/>
-</a>
+HackerRank's public profile data does not have a comparably reliable, GitHub-native live card for the metrics I would want to display. The profile link therefore stays live instead of showing hard-coded or potentially stale numbers.
 
-</div>
+</td>
+</tr>
+</table>
 
-HackerRank does not provide a sufficiently reliable public README widget for all profile metrics, so this profile links directly to the live HackerRank profile rather than displaying potentially stale or fabricated numbers.
+Live-data design: LeetCode uses the actively maintained LeetCard service, which supports dynamically generated stats, animation, and a heatmap extension. citeturn660895search0turn660895search2
 
-🚀 Featured Engineering Work
+06 — Featured Build
 
 🖥️ Java Operating System Simulation
 
-A Java-based operating-system simulation focused on understanding core systems concepts through practical implementation.
+SYSTEM PROJECT
 
-Concepts covered
+Process Scheduling   ██████████
+Memory Management    ██████████
+File Systems         ██████████
+System Calls         ██████████
+OOP / Architecture   ██████████
 
-Process Scheduling · Memory Management · File Systems · System Calls · OOP · System Design
+A Java-based operating system simulation designed to explore core systems concepts through implementation rather than theory alone.
 
-Status: ACTIVE DEVELOPMENT
+Focus: Process Scheduling · Memory Management · File Systems · System Calls · OOP · System Design
 
-Repository/demo URL was not present in the supplied README, so no repository link is fabricated here.
+The original README did not provide a repository URL or demo URL for this project, so no link is fabricated here.
 
-🎓 Education
+07 — Education
 
-Master of Computer Applications (MCA)
+<div align="center">
+
+🎓 Master of Computer Applications (MCA)
+
 Cochin University of Science and Technology (CUSAT)
 
-Exact dates, specialization and additional academic details were not present in the supplied README, so they are intentionally not invented.
-
-🏆 Engineering Snapshot
-
-<div align="center">
-
-Area
-
-Focus
-
-💻 Backend
-
-Java • Spring Boot • Hibernate • REST APIs • JWT
-
-🌐 Frontend
-
-React • Angular • SASS
-
-☁️ Cloud
-
-AWS • Azure • GCP
-
-🔄 DevOps
-
-Docker • Jenkins • GitHub Actions • GitLab CI
-
-🗃️ Data
-
-MySQL • MongoDB • MS SQL Server
-
-🧠 Problem Solving
-
-LeetCode • HackerRank • DSA
-
-🛠️ Developer Tools
-
-Git • Linux • Jira • Postman
-
 </div>
 
-📚 Learning Philosophy
+08 — Engineering Principles
 
-while (true) {
-    learn();
-    build();
-    solveProblems();
-    improveArchitecture();
-    ship();
+public class Adarsh {
+
+    String philosophy = "Understand it. Build it. Ship it. Improve it.";
+
+    void dailyLoop() {
+        learn("DSA + Backend + Cloud + DevOps");
+        build("real systems");
+        debug("until it works");
+        refactor("until it is maintainable");
+        ship("to production");
+    }
 }
 
-I focus on consistent improvement over short-term intensity — strengthening DSA, backend engineering, cloud deployment, DevOps practices, and system-design thinking through practical work.
-
-🌐 Find Me Online
+09 — Connect
 
 <div align="center">
 
-Platform
+<a href="https://adarsh-portfolio-virid-six.vercel.app/">🌐 <b>Portfolio</b></a> ·
+<a href="https://www.linkedin.com/in/adarsh-biradar-87141a261/">💼 <b>LinkedIn</b></a> ·
+<a href="https://github.com/ARBiradar">🐙 <b>GitHub</b></a> ·
+<a href="https://leetcode.com/u/AdarshRB/">🧩 <b>LeetCode</b></a> ·
+<a href="https://www.hackerrank.com/profile/adarshbiradar56">🟢 <b>HackerRank</b></a> ·
+<a href="mailto:adarshbiradar56@gmail.com">✉️ <b>Email</b></a>
 
-Profile
+<br/><br/>
 
-🌐 Portfolio
+CODE • SHIP • LEARN • REPEAT
 
-adarsh-portfolio-virid-six.vercel.app
-
-💼 LinkedIn
-
-Adarsh Biradar
-
-🐙 GitHub
-
-ARBiradar
-
-🧩 LeetCode
-
-AdarshRB
-
-🟢 HackerRank
-
-adarshbiradar56
-
-✉️ Email
-
-adarshbiradar56@gmail.com
-
-</div>
-
-<div align="center">
-
-BUILD → BREAK → DEBUG → LEARN → SHIP
-
-<a href="https://github.com/ARBiradar">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:007ea7,100:0b1020&height=120&section=footer" width="100%" alt="Animated GitHub profile footer"/>
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:00D9FF,50:123C69,100:050816" alt="Footer divider"/>
 
 </div>
